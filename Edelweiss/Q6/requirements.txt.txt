@@ -1,0 +1,8 @@
+pandas
+numpy
+datetime
+undetected_chromedriver
+selenium
+time
+warnings
+math

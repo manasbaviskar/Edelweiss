@@ -1,0 +1,12 @@
+pandas
+numpy
+datetime
+openpyxl
+xlsxwriter
+xlrd
+matplotlib
+seaborn
+cufflinks
+dateparser
+plotly
+warnings
